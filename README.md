@@ -17,13 +17,13 @@ chmod +x arpspoofdetector.py
 ```
 
 ```python
-./arpspoofdetector.py.sh
+./arpspoofdetector.py
 ```
 
 OR
 
 ```python
-python3 arpspoofdetector.py.sh
+python3 arpspoofdetector.py
 ```
 
 ## Tested on

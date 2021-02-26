@@ -1,4 +1,4 @@
-# ARPSpoofDetector
+# ARP Spoof/MiTM Detector
 
 arpspoofdetector is a Python script that is written to detect and report when you fall victim to ARP spoof/MiTM attacks with the help of Scapy module.
 
